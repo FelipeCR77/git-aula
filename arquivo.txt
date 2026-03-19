@@ -4,3 +4,4 @@ Alunos do 3C
 estudamos sobre o git e como criar o repositório local
 todos participaram
 foi um sucesso!!
+São paulo é menor de SP
